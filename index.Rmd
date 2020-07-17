@@ -12,26 +12,26 @@ description: "Notes de cours, format bookdown::gitbook."
 
 # Objectifs et plan du cours {#intro}
 
-Agroécologie appliquée à l’élevage, appliquer l’agroécologie à l’élevage, appliquer l’agroécologie en élevage, … On pourrait amalgamer cet énoncé en autant de fois sans en déformer le fondement. Qu’est-ce que l’agroécologie ? Après une ou des définitions bien engagées, va-t-elle ou vont-elles chercher des principes applicables en élevage sous nos conditions ? Une approche simpliste par décomposition du mot agroécologie permet d’entrevoir l’application des principes de l’écologie en agronomie. Qu’est donc l’écologie ? Quels sont ces principes auxquels la science de l’agriculture pourrait faire appel ? Quelle(s) en serai(en)t la ou les motivations ? Voici quelques interrogations parmi tant d’autres qui doivent orienter l’apprenant dans la réflexion et l’appropriation de ce module, en partant de l’écologie à l’agroécologie pour une application en élevage en particulier.
+**Agroécologie** appliquée à l’élevage, appliquer l’agroécologie à l’élevage, appliquer l’agroécologie en élevage, … On pourrait amalgamer cet énoncé en autant de fois sans en déformer le fondement. Qu’est-ce que l’agroécologie ? Après une ou des définitions bien engagées, va-t-elle ou vont-elles chercher des principes applicables en élevage sous nos conditions ? Une approche simpliste par décomposition du mot _agroécologie_ permet d’entrevoir l’application des principes de l’_écologie_ en _agronomie_. Qu’est donc l’écologie ? Quels sont ces principes auxquels la _science de l’agriculture_ pourrait faire appel ? Quelle(s) en serai(en)t la ou les motivations ? Voici quelques interrogations parmi tant d’autres qui doivent orienter l’apprenant dans la réflexion et l’appropriation de ce module, en partant de l’écologie à l’agroécologie pour une application en _élevage_ en particulier.
 
-Un gros premier chapitre est consacré à l’écologie générale, énonçant simplement les bases et les fondements, et dans lequel de nombreuses définitions sont proposées avec plus de détails sur l’écologie au niveaux des individus et au niveau des populations. Ces deux niveaux d’études seront particulièrement nécessaires pour comprendre en quoi l’écologie est utile pour l’agronomie et quels éléments sont exploitables en élevage.
+Un gros premier chapitre est consacré à l’_écologie générale_, énonçant simplement les bases et les fondements, et dans lequel de nombreuses définitions sont proposées avec plus de détails sur l’écologie au niveaux des _individus_ et au niveau des _populations_. Ces deux niveaux d’études seront particulièrement nécessaires pour comprendre en quoi l’écologie est utile pour l’agronomie et quels éléments sont exploitables en élevage.
 
-Le chapitre 2 met en contexte l’agroécologie en s’inspirant d’une publication de Pierre Rabhi, auteur bien connu en la matière, puis présente les principes de ce paradigme.
+Le chapitre 2 met en contexte l’agroécologie en s’inspirant d’une publication de Pierre Rabhi, auteur bien connu en la matière, puis présente les _principes_ de ce paradigme.
 
 Le chapitre 3 (non encore élaboré) propose des lectures pertinentes avec des cas écoles. L’apprenant sera appelé à exploiter toutes ces lectures après l’exploitation des chapitres 1 et 2. Ce travail personnel forgera ses apprentissages et l’appropriation des connaissances requises.
 
-Ce qu’il faut déjà savoir, c’est que l’agroécologie est un thème (terme !) dont on entend beaucoup parler et pourtant il est encore peu connu. Elle ne fournit ni recettes toutes faites, ni paquets techniques (itinéraires techniques universels, plan de prophylaxie par exemple), ni normes, ni prescriptions. Au lieu de cela, l’agroécologie repose sur l’application de cinq principes de base : recyclage, efficience, diversité, régulation et synergies. Le choix des pratiques de gestion et des technologies mises en œuvre pour l’application de ces principes est toujours spécifique au site.
+Ce qu’il faut déjà savoir, c’est que l’agroécologie est un thème (terme !) dont on entend beaucoup parler et pourtant il est encore peu connu. Elle ne fournit ni recettes toutes faites, ni paquets techniques (itinéraires techniques universels, plan de prophylaxie par exemple), ni normes, ni prescriptions. Au lieu de cela, **l’agroécologie repose sur l’application de cinq principes de base : recyclage, efficience, diversité, régulation et synergies**. Le choix des pratiques de gestion et des technologies mises en œuvre pour l’application de ces principes est toujours spécifique au site.
 
-La version du document sera régulièrement actualisée.
+_La version du document sera régulièrement actualisée_.
 
 
 **TABLE DES MATIÈRES**
 
-[**Chaiptre 1.**]() Objectifs et plan du cours
+[**Chapitre 1.**]() Objectifs et plan du cours
 
-[**Chaiptre 2.**]() Écologie générale, bases et fondements
+[**Chapitre 2.**]() Écologie générale, bases et fondements
 
-[**Chaiptre 3.**]() Application à l'élevage
+[**Chapitre 3.**]() Application à l'élevage
 
 [**Références bibliographiques.**]()
 
