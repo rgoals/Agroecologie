@@ -1,13 +1,12 @@
 # Références {#references}
 
-R version 4.0.2 (2020-06-22) -- "Taking Off Again"
-Copyright (C) 2020 The R Foundation for Statistical Computing
-Platform: x86_64-w64-mingw32/x64 (64-bit)
+-	Agroperspective 2015. L’Agro-écologie en élevage : Les 5 piliers fondamentaux.
 
-R est un logiciel libre livré sans AUCUNE GARANTIE.
-Vous pouvez le redistribuer sous certaines conditions.
-Tapez 'license()' ou 'licence()' pour plus de détails.
+-	Baret, P., Stassart, P. M., Vanloqueren, G., & Van Damme, J. (2013). Dépasser les verrouillages de régimes socio-techniques des systèmes alimentaires pour construire une transition agroécologique. Actes du Premier Congrès Interdisciplinaire du Développement Durable: Quelle transition pour nos sociétés? Thème 2: Alimentation, Agriculture, Elevage: 5-14.
 
-R est un projet collaboratif avec de nombreux contributeurs.
-Tapez 'contributors()' pour plus d'information et
-'citation()' pour la façon de le citer dans les publications.
+-	Jouven M. 2015. Appliquer l’agroécologie … à l’élevage (une présentation PowerPoint en PDF).
+
+-	Le Gall. Agroécologie et élevage herbivore (une présentation PowerPoint en PDF).
+
+-	Tichit, M., & Dumont, B. (2016). L'agroécologie: origines, bases scientifiques et déclinaisons en élevage. Dans Jouven M. L’agroécologie, du nouveau pour le pastoralisme ?
+

@@ -7,7 +7,7 @@ documentclass: book
 #bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "Notes de cours, format bookdown::gitbook."
+description: "Notes de cours, format gitbook."
 ---
 
 # Objectifs et plan du cours {#intro}

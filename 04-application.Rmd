@@ -1,9 +1,21 @@
 # Application en élevage {#application} 
 
-Some _significant_ applications are demonstrated in this chapter.
+Lectures obligatoires (dossier lectures) :
 
-## one
+##	Déclinaisons de l'agroécologie en élevage
 
-## two
+-	Tichit, M., & Dumont, B. (2016). L'agroécologie: origines, bases scientifiques et déclinaisons en élevage. Dans Jouven M. L’agroécologie, du nouveau pour le pastoralisme ?
 
-## three
+##	Les cinq piliers fondamentaux
+
+-	Agroperspective 2015. L’Agro-écologie en élevage : Les 5 piliers fondamentaux.
+
+##	Cas écoles de transition agroécologique
+
+-	Baret, P., Stassart, P. M., Vanloqueren, G., & Van Damme, J. (2013). Dépasser les verrouillages de régimes socio-techniques des systèmes alimentaires pour construire une transition agroécologique. Actes du Premier Congrès Interdisciplinaire du Développement Durable: Quelle transition pour nos sociétés? Thème 2: Alimentation, Agriculture, Elevage: 5-14.
+
+-	Jouven M. 2015. Appliquer l’agroécologie … à l’élevage (une présentation PowerPoint en PDF).
+
+-	Le Gall. Agroécologie et élevage herbivore (une présentation PowerPoint en PDF).
+
+
